@@ -4,5 +4,6 @@
 - 💞️ İnönü Üniversitesi Ağız ve Diş Sağlığı ile Şırnak Üniversitesi İdil Meslek Yüksekokulu Elektrikli Cihaz teknolojisi mezunuyum ...
 - 📫 Bug bountylik yapıyorum...
 
-Herhangi bir sorunuz olursa veya çalınan bir hesabınız hesabın size ait olduğunu ispatlamanız şartıyla veya web sitenizi test etme düşünceniz gibi bir durum olursa  ücretsiz bir şekilde 7/24 yardım etmeye hazırım.
+Herhangi bir sorunuz olursa veya çalınan bir hesabınız hesabın size ait olduğunu ispatlamanız şartıyla ücretsiz bir şekilde 7/24 yardım etmeye hazırım.
 Çalıntı hesap iddiası için yaşadığım yerde ikamet ediyor olmanız ve sizi yakından görüp sizin yanınızda kurtarmam gerekir.  
+Veya web sitenizi test etme düşünceniz gibi bir durum olursa 7/24 yardım etmeye hazırım. Fakat web sitesini ücretsiz test etmem. 
